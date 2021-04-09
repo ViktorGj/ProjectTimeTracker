@@ -1,0 +1,24 @@
+[
+  {
+    "id": "2",
+    "name": "React-Node Demo project",
+    "description": "Project description...",
+    "times": [
+      {
+        "id": "1",
+        "description": "writing documentation",
+        "amount": 40
+      },
+      {
+        "id": "2",
+        "description": "development time",
+        "amount": 150
+      },
+      {
+        "id": "3",
+        "description": "testing time",
+        "amount": 50
+      }
+    ]
+  }
+]

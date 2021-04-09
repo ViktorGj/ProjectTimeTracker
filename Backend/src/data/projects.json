@@ -1,0 +1,59 @@
+[
+  {
+    "id": "075d1728-b961-4c21-9b93-6fdb0f6d0575",
+    "name": "Solid Works",
+    "description": "Modeling",
+    "times": [
+      {
+        "id": "727eba20-c744-4ec7-b264-224bf556abe0",
+        "description": "some",
+        "amount": "1"
+      },
+      {
+        "id": "69f0fd80-3d03-413d-a3e8-2d1b0f5f7df6",
+        "description": "Time 2",
+        "amount": "33"
+      },
+      {
+        "id": "085f65da-4b79-46ac-afdc-2cf83aa1e9d9",
+        "description": "Time 3",
+        "amount": "6"
+      }
+    ]
+  },
+  {
+    "id": "06b19a42-1fe6-41e0-9fd6-aee0e9e46dc3",
+    "name": "Angular",
+    "description": "Angular description",
+    "times": [
+      {
+        "id": "6ab97709-1a58-4462-b776-75e7998ebd70",
+        "description": "dfds",
+        "amount": "333"
+      }
+    ]
+  },
+  {
+    "id": "fe9efc5c-9caf-4106-93c5-1086bf96f243",
+    "name": "VueJs",
+    "description": "VueJs description",
+    "times": [
+      {
+        "id": "8fa22e8a-0416-417d-a93b-209bc22cbd4a",
+        "description": "Time for sleep",
+        "amount": "5"
+      },
+      {
+        "id": "e7fcfd65-0a91-41f6-98dc-73bad39e956d",
+        "description": "time 2",
+        "amount": "333"
+      }
+    ]
+  },
+  {
+    "id": "5421ab50-5d72-4a62-893a-f633639ae20b",
+    "name": "Running",
+    "description": "Running practice",
+    "times": []
+  }
+]
